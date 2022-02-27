@@ -12,15 +12,16 @@
 6. Real time voice notification alerts to help you take action at the earliest minimizing damage to crops therefore increasing the crop yield.
 
 ## Built at Metaverse ⚓
-- [Official Website] (https://metaverse-xenith22.tech/#postLoader)
+- [Official Website](https://metaverse-xenith22.tech/#postLoader)
 - [Instagram](https://www.instagram.com/ieeesbjiit/)
 - [Linkedln](https://www.linkedin.com/company/ieee-student-branch-jiit/)
-- [GitHub] (https://github.com/ieeesbjiit)
+- [GitHub](https://github.com/ieeesbjiit)
 
 
 
 ## Problem Statement 🚧
 Agriculture : <br>
+
 ![image](https://user-images.githubusercontent.com/75015574/155877583-f5e172f8-6314-4a0d-a10f-00bf9c832819.png)
 ![image](https://user-images.githubusercontent.com/75015574/155877595-403692f4-0b21-4254-99ca-c5eaa00399a8.png)
 
